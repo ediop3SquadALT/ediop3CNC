@@ -2,7 +2,7 @@
 Cnc botnet in python. Requires root. It has worm capabilities
 
 
-## istallation
+## installation
 ```
 git clone https://github.com/ediop3SquadALT/ediop3CNC
 cd ediop3CNC
